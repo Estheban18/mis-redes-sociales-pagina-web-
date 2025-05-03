@@ -1,3 +1,11 @@
+Mostrar redes sociales dinámicamente.php
+
+
+
+
+
+
+
 <?php
 require 'db.php';
 
