@@ -1,3 +1,18 @@
+
+estheban.js
+
+
+
+
+
+
+
+
+
+
+
+
+
 document.addEventListener('DOMContentLoaded', function() {
     // Efecto de aparición escalonada para los elementos
     const profile = document.querySelector('.profile');
