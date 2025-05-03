@@ -1,3 +1,18 @@
+registrar_visita.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <?php
 require 'db.php';
 
