@@ -1,3 +1,9 @@
+REDES.SQL
+
+
+
+
+
 -- Crear la base de datos
 CREATE DATABASE IF NOT EXISTS esthebxn_social;
 USE esthebxn_social;
